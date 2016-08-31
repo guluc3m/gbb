@@ -8,7 +8,7 @@ Si este sofware o hadware es útil también para la comunidad mucho mejor.
 
 En definitva, es una buena forma de aprender cosas nuevas compartiendo conocimiento que no aprenderás en la carrera hasta que te enfrentes a ellas en la vida real.
 
-Todos aquellos interesados deben escribir en el 'issue' general de cada proyecto o enviar un correo a la [lista](https://gul.uc3m.es/mailman/listinfo/gul)
+Todos aquellos interesados deben escribir en el '[issue](https://github.com/guluc3m/gbb/issues)' general de cada proyecto o enviar un correo a la [lista](https://gul.uc3m.es/mailman/listinfo/gul)
 exponiendo claramente sus ideas e intenciones.
 
 Por supuesto, siempre puedes pasarte por el despacho ([2.3.C05](https://wiki.gul.es/doku.php?id=como_llegar)) y proponer ideas al resto de compañeros.
@@ -47,7 +47,7 @@ A continuación se describen algunos poryectos
 
 - [GulTalks](http://cursos.gul.es) - [Ver proyecto](https://github.com/guluc3m/gul-gultalks "GUL - Github")
 
-- GUL Zoe - [Ver proyecto]( "GUL - GITHUB")
+- GUL Zoe - [Ver proyecto](https://github.com/guluc3m/gul-zoe "GUL - GITHUB")
 
 - Vidmaster - [Ver proyecto](http://github.com/guluc3m/vidmasterGUL" "GUL - Github")
 
