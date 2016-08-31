@@ -88,4 +88,6 @@ atención de un público más amplio, incluso de fuera de la universidad.
 
 ## Licencia
 
+Este proyecto está licenciado bajo [MIT](https://es.wikipedia.org/wiki/Licencia_MIT "Wikipedia - MIT")
+
 Ver la [licencia](https://github.com/guluc3m/gbb/blob/master/LICENSE "LICENCIA")
