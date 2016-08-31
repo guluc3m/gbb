@@ -24,7 +24,7 @@ Se trataría de crear un acortador de URLs desde cero. Las URLs podrían tener l
 
 * [Polr](https://project.polr.me "Polr")
 
-**_¡Ey, me interesa!_** [Quiero saber más](TODO)
+:thumbsup: **_¡Ey, me interesa!_** [Quiero saber más](TODO)
 
 ### GUL Pastebin
 
@@ -37,7 +37,7 @@ Web (API) adicional ligado al mismo.
 * [GNOME Pastebin](https://paste.gnome.org/ "GNOME Pastebin")
 * [Fedora Pastebin](https://paste.fedoraproject.org/ "Fedora Pastebin")
 
-**_¡Ey, me interesa!_** [Quiero saber más](TODO)
+:thumbsup: **_¡Ey, me interesa!_** [Quiero saber más](TODO)
 
 ## Otros proyectos
 
