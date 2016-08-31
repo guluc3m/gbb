@@ -24,7 +24,7 @@ Estaría bien disponer de manera adicional de un Servicio Wen (API) que puedan u
 
 * [Polr](https://project.polr.me "Polr")
 
-:thumbsup: **_¡Ey, me interesa!_** [Quiero saber más](TODO)
+:thumbsup: **_¡Ey, me interesa!_** [Quiero saber más](shortener/README.md)
 
 ### GUL Pastebin
 
@@ -37,7 +37,7 @@ Web (API) adicional ligado al mismo.
 * [GNOME Pastebin](https://paste.gnome.org/ "GNOME Pastebin")
 * [Fedora Pastebin](https://paste.fedoraproject.org/ "Fedora Pastebin")
 
-:thumbsup: **_¡Ey, me interesa!_** [Quiero saber más](TODO)
+:thumbsup: **_¡Ey, me interesa!_** [Quiero saber más](pastebin/README.md)
 
 ## Otros proyectos
 
