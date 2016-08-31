@@ -1,5 +1,4 @@
 # El Tablón de Auncios del GUL
----
 
 Este tablón tiene como propósito ser un lugar donde recojer dosiers sobre proyectos llevados
 a cabo desde el Grupo De Usuarios de Linux de la Universidad Carlos III de Madrid (GUL UC3M) e invitar
@@ -16,9 +15,8 @@ exponiendo claramente sus ideas e intenciones.
 Por supuesto, siempre puedes pasarte por el despacho ([2.3.C05](https://wiki.gul.es/doku.php?id=como_llegar)) y prononer ideas al resto de compañeros.
 
 ## Propuestas
-----
 
-#### GUL URL Shortener
+### GUL URL Shortener
 
 Se trataría de crear un acortador de URLs desde cero. Las URLs podrían tener la siguente pinta ['gul.es/c2sH49'](#)
 
@@ -28,7 +26,7 @@ Se trataría de crear un acortador de URLs desde cero. Las URLs podrían tener l
 
 **_¡Ey, me interesa!_** [Quiero saber más](TODO)
 
-#### GUL Pastebin
+### GUL Pastebin
 
 Se trata de crear el típico Pastebin de texto plano. Se trataría de un servicio liviano que permitiera
 el libre intercambio de información a través de internet mediante una plataforma Web o incluso un servicio
@@ -42,7 +40,6 @@ Web (API) adicional ligado al mismo.
 **_¡Ey, me interesa!_** [Quiero saber más](TODO)
 
 ## Otros proyectos
-----
 
 A continuación se describen algunos poryectos
 
@@ -60,12 +57,10 @@ Puedes ver [aquí](https://github.com/guluc3m "GUL - Github") el listado complet
 
 
 ## FAQs
---
 
 * TODO: enlace a documento
 
 ## Algunos consejos
---
 
 * Si alguno de los proyectos te interesa no tengas miedo, no necesitas ser ningún experto, nadie nace
 aprendido ni nadie sabe de todo. La idea es aprender y compartir conocimiento.
@@ -91,7 +86,6 @@ Tamabién se busca compromiso y proactividad, al fin y al cabo es una responsabi
 * Intenta comentar el código y escribir los documentos en inglés. Es una buena práctica que además permite atraer la
 atención de un público más amplio, incluso de fuera de la universidad.
 
-LICENCIA
----
+## Licencia
 
 Ver la [licencia](https://github.com/guluc3m/gbb/blob/master/LICENSE "LICENCIA")
