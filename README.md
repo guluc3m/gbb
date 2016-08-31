@@ -1,24 +1,24 @@
 # El Tablón de Auncios del GUL
 
 Este tablón tiene como propósito ser un lugar donde recojer dosiers sobre proyectos llevados
-a cabo desde el Grupo De Usuarios de Linux de la Universidad Carlos III de Madrid (GUL UC3M) e invitar
-a colaborar a sus miembros con nuevos proyectos de software o hardware libre.
-
-En definitva, es una buena forma de aprender cosas nuevas compartiendo conocimiento que no aprenderás en la carrera hasta que te enfrentes a ellas en la vida real.
+a cabo desde el Grupo De Usuarios de Linux de la Universidad Carlos III de Madrid (GUL UC3M) e invitar a colaborar a sus miembros con nuevos proyectos de software o hardware libre y abierto.
 
 Lo fundamental es crear proyectos últiles para el grupo con el fin de mejorar los servicios proporcionados.
 Si este sofware o hadware es útil también para la comunidad mucho mejor.
 
+En definitva, es una buena forma de aprender cosas nuevas compartiendo conocimiento que no aprenderás en la carrera hasta que te enfrentes a ellas en la vida real.
+
 Todos aquellos interesados deben escribir en el 'issue' general de cada proyecto o enviar un correo a la [lista](https://gul.uc3m.es/mailman/listinfo/gul)
 exponiendo claramente sus ideas e intenciones.
 
-Por supuesto, siempre puedes pasarte por el despacho ([2.3.C05](https://wiki.gul.es/doku.php?id=como_llegar)) y prononer ideas al resto de compañeros.
+Por supuesto, siempre puedes pasarte por el despacho ([2.3.C05](https://wiki.gul.es/doku.php?id=como_llegar)) y proponer ideas al resto de compañeros.
 
 ## Propuestas
 
 ### GUL URL Shortener
 
 Se trataría de crear un acortador de URLs desde cero. Las URLs podrían tener la siguente pinta ['gul.es/c2sH49'](#)
+Estaría bien disponer de manera adicional de un Servicio Wen (API) que puedan usar otras aplicaciones.
 
 **Algunos ejemplos**:
 
@@ -29,7 +29,7 @@ Se trataría de crear un acortador de URLs desde cero. Las URLs podrían tener l
 ### GUL Pastebin
 
 Se trata de crear el típico Pastebin de texto plano. Se trataría de un servicio liviano que permitiera
-el libre intercambio de información a través de internet mediante una plataforma Web o incluso un servicio
+el libre intercambio de información a través de internet mediante una plataforma Web o incluso un Servicio
 Web (API) adicional ligado al mismo.
 
 **Algunos ejemplos**:
