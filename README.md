@@ -1,4 +1,4 @@
-El Tablón de Auncios del GUL
+# El Tablón de Auncios del GUL
 ---
 
 Este tablón tiene como propósito ser un lugar donde recojer dosiers sobre proyectos llevados
@@ -15,10 +15,10 @@ exponiendo claramente sus ideas e intenciones.
 
 Por supuesto, siempre puedes pasarte por el despacho ([2.3.C05](https://wiki.gul.es/doku.php?id=como_llegar)) y prononer ideas al resto de compañeros.
 
-Propuestas
+## Propuestas
 ----
 
-##### H6 GUL URL Shortener
+#### GUL URL Shortener
 
 Se trataría de crear un acortador de URLs desde cero. Las URLs podrían tener la siguente pinta ['gul.es/c2sH49'](#)
 
@@ -28,7 +28,7 @@ Se trataría de crear un acortador de URLs desde cero. Las URLs podrían tener l
 
 **_¡Ey, me interesa!_** [Quiero saber más](TODO)
 
-# H6 GUL Pastebin
+#### GUL Pastebin
 
 Se trata de crear el típico Pastebin de texto plano. Se trataría de un servicio liviano que permitiera
 el libre intercambio de información a través de internet mediante una plataforma Web o incluso un servicio
@@ -41,7 +41,7 @@ Web (API) adicional ligado al mismo.
 
 **_¡Ey, me interesa!_** [Quiero saber más](TODO)
 
-Otros proyectos
+## Otros proyectos
 ----
 
 A continuación se describen algunos poryectos
@@ -59,12 +59,12 @@ A continuación se describen algunos poryectos
 Puedes ver [aquí](https://github.com/guluc3m "GUL - Github") el listado completo.
 
 
-FAQs
+## FAQs
 --
 
 * TODO: enlace a documento
 
-Algunos consejos
+## Algunos consejos
 --
 
 * Si alguno de los proyectos te interesa no tengas miedo, no necesitas ser ningún experto, nadie nace
