@@ -53,7 +53,7 @@ agentes sin saber, a priori, la dirección de su repositorio.
 * [Python Package Index (PyPI)](https://pypi.python.org/pypi)
 * [Cargo](https://crates.io/)
 
-:thumbsup: **_¡Ey, me interesa!_** [Quiero saber más](zoe_index/README.md)
+:thumbsup: **_¡Ey, me interesa!_** [Quiero saber más](projects/zoe_index/README.md)
 
 ## Otros proyectos
 
