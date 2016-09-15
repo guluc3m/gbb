@@ -39,22 +39,6 @@ Web (API) adicional ligado al mismo.
 
 :thumbsup: **_¡Ey, me interesa!_** [Quiero saber más](pastebin/README.md)
 
-### Zoe Agent Index
-
-Consistiría en crear un índice online de agentes de
-[Zoe](https://github.com/guluc3m/gul-zoe) en el que la gente pudiera dejar
-constancia de agentes que hayan creado. Dicho índice podría incluir una API que
-permitiera usarlo como repositorio en el [gestor de
-agentes](https://github.com/rmed/zoe_agent_manager), permitiendo instalar
-agentes sin saber, a priori, la dirección de su repositorio.
-
-**Algunos ejemplos**:
-
-* [Python Package Index (PyPI)](https://pypi.python.org/pypi)
-* [Cargo](https://crates.io/)
-
-:thumbsup: **_¡Ey, me interesa!_** [Quiero saber más](projects/zoe_index/README.md)
-
 ## Otros proyectos
 
 A continuación se describen algunos poryectos
