@@ -1,7 +1,12 @@
 # Zoe Agent Index
 
-El gestor de agentes de Zoe (o
-*[zam](https://github.com/rmed/zoe_agent_manager)*) permite instalar agentes en
+Portal online para tener una **lista centralizada de agentes de Zoe** y que
+además disponga de una **API** sobre la cual poder crear servicios
+o aplicaciones.
+
+## Información sobre el proyecto
+
+El gestor de agentes de Zoe permite instalar agentes en
 tiempo de ejecución de forma automática. Actualmente, utiliza direcciones de
 **repositorios de git** tales como
 `https://github.com/rmed/zoe_agent_manager.git`.
@@ -11,11 +16,9 @@ actualizaciones de sus agentes de manera rápida. Sin embargo, esto ocasiona que
 el resto de usuarios tengan que conocer de antemano dónde se aloja el código
 del agente.
 
-## Información del proyecto
-
-La idea principal sería tener un portal online donde los desarrolladores
-pudieran indicar la dirección de sus repositorios git y tener así un índice
-centralizado de los agentes. Únicamente sería necesario indicar:
+La idea principal sería tener un portal donde los desarrolladores pudieran
+indicar la dirección de sus repositorios git y tener así un índice centralizado
+de los agentes. Únicamente sería necesario indicar:
 
 - Nombre del agente
 - Correo del desarrollador
@@ -24,8 +27,17 @@ centralizado de los agentes. Únicamente sería necesario indicar:
 De esta manera, los desarrolladores seguirían pudiendo actualizar sus agentes
 de manera independiente.
 
-Dicha idea está inspirada en sitios como [PyPI](https://pypi.python.org/pypi).
+Al incluir **una API**, el gestor de agentes podría acceder al listado de la
+plataforma para buscar un agente específico, de manera que el usuario final no
+tuviera que conocer la dirección del repositorio.
 
-Si se incluyera **una API**, el gestor de agentes podría acceder al listado de
-la plataforma para buscar un agente específico, de manera que el usuario final
-no tuviera que conocer la dirección del repositorio.
+## Referencias
+
+- [PyPI](https://pypi.python.org/pypi): Índice de paquetes de Python
+- [zam](https://github.com/rmed/zoe_agent_manager): Gestor de agentes de Zoe.
+  Incluye documentación sobre el formato de los archivos que identifican un
+  agente como "instalable"
+
+## Recursos
+
+## Equipo
